@@ -7,5 +7,6 @@ int main()
 
    cout<<" super computer"<<endl ;
    cout<<"12232"<<endl ;
+   cout<<"i am working" ;
 
 }
